@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hashim Rahman</h1>
 <h3 align="center">A passionate frontend developer from India excelled in HTML and CSS, and also familiarised with JavaScript, Python, C and Java. Currently expanding my skill set by building deep knowledge in Python Django framework.</h3>
-<img width="400px" alt="coder" src="https://iconscout.com/lottie-animation/male-programmer-doing-coding-work-9560195>
+<img width="400px" alt="coder" src="https://iconscout.com/lottie-animation/male-programmer-doing-coding-work-9560195">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
