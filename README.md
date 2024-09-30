@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hashim Rahman</h1>
 <h3 align="center">A passionate frontend developer from India excelled in HTML and CSS, and also familiarised with JavaScript, Python, C and Java. Currently expanding my skill set by building deep knowledge in Python Django framework.</h3>
-<img width="400px" alt="coder" src="https://iconscout.com/lottie-animation/male-programmer-doing-coding-work-9560195">
+<!-- <img width="400px" alt="coder" src="[https://iconscout.com/lottie-animation/male-programmer-doing-coding-work-9560195](https://www.pexels.com/video/an-artist-s-illustration-of-artificial-intelligence-ai-this-video-explores-generative-ai-and-how-it-can-empower-humans-with-creativity-it-was-created-by-winston-duke-as-part-of-the-vis-25744121/)"> -->
+<img width="400px" alt="coder" src="https://www.pexels.com/video/an-artist-s-illustration-of-artificial-intelligence-ai-this-video-explores-generative-ai-and-how-it-can-empower-humans-with-creativity-it-was-created-by-winston-duke-as-part-of-the-vis-25744121/">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
