@@ -53,7 +53,7 @@ Currently, I’m deepening my backend knowledge with advanced <strong>Django, SQ
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+<!-- <h3 align="left">📊 GitHub Stats:</h3>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hashimrahman&show_icons=true&locale=en&theme=radical" alt="Hashim's GitHub Stats" />
@@ -67,6 +67,6 @@ Currently, I’m deepening my backend knowledge with advanced <strong>Django, SQ
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hashimrahman&show_icons=true&locale=en&layout=compact&theme=radical" alt="Hashim's Top Languages" />
 </p>
 
----
+--- -->
 
 <p align="center">⚡ Code. Learn. Grow.</p>
